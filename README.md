@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @niyatimadaan
-- 🌱 I’m currently learning and working on Web Development Skills.
+- 🌱 I’m currently learning and working on Web Development and Flutter Skills.
 - 📫 Reach me on:
 
 <a href="https://www.linkedin.com/in/niyati-madaan-6b3319200/" target="_blank">
